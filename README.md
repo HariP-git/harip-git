@@ -82,15 +82,6 @@ I’m an aspiring Data Analytics and AI professional passionate about transformi
 - 💻 GitHub: https://github.com/HariP-git  
 - 🧠 LeetCode: https://leetcode.com/hari0963  
 
----
-
-## 📊 GitHub Stats
-```bash
-# Replace username if needed
-https://github-readme-stats.vercel.app/api?username=HariP-git&show_icons=true&theme=tokyonight
-```
-
----
 
 ## ⚡ Fun Fact
 I love building systems where **AI meets real-world data problems** 🚀
